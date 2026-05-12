@@ -37,6 +37,28 @@
 
 <br/>
 
+### 🚀 Recent Projects
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3>
+        <a href="https://github.com/Electrov201/Kubernetes_Cdac_Project">
+          ☸️ Kubernetes_Cdac_Project
+        </a>
+      </h3>
+      <p>Designed an automated Kubernetes cluster using Ansible and kubeadm on Ubuntu Linux, enabling platform-level DCDR through Kubernetes self-healing, pod restarts, replica management, and workload scaling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
