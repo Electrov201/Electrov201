@@ -1,30 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,30:111827,70:2563eb,100:7c3aed&height=280&section=header&text=Aniket%20Magdum&fontSize=76&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Architect%20%7C%20Enterprise%20SysAdmin%20(Linux%20%26%20Windows)%20%7C%20DevOps%20%26%20SOC%20Engineer&descAlignY=60&descAlign=50&descSize=19&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1e3a8a,100:3b82f6&height=250&section=header&text=Aniket%20Magdum&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Cloud%20Architect%20|%20Enterprise%20SysAdmin%20|%20DevOps%20and%20SOC%20Engineer&descAlignY=55&descAlign=50&descSize=18&animation=twinkling" width="100%" alt="Header Banner"/>
 </div>
 
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Enterprise+Linux+%26+Windows+Server+Administration;AWS+Cloud+Infrastructure+Automation+(Terraform+%2B+Ansible);SOC+Incident+Response+%26+Zero-Trust+Cybersecurity;High-Availability+Kubernetes+%26+CI%2FCD+Pipeline+Engineering">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Enterprise+Linux+%26+Windows+Server+Administration;AWS+Cloud+Infrastructure+Automation+(Terraform+%2B+Ansible);SOC+Incident+Response+%26+Zero-Trust+Cybersecurity;High-Availability+Kubernetes+%26+CI%2FCD+Pipeline+Engineering" alt="Typing SVG" />
+  <a href="https://github.com/Electrov201">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Enterprise+Linux+and+Windows+Server+Administration;AWS+Cloud+Infrastructure+Automation+(Terraform+and+Ansible);SOC+Incident+Response+and+Zero-Trust+Cybersecurity;High-Availability+Kubernetes+and+CI-CD+Pipeline+Engineering" alt="Typing SVG Banner" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:aniketmagdum15325@gmail.com"><img src="https://img.shields.io/badge/Email-aniketmagdum15325%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aniket-magdum-b86745239"><img src="https://img.shields.io/badge/LinkedIn-Aniket%20Magdum-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Electrov201"><img src="https://img.shields.io/badge/GitHub-Electrov201-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://cdac.in/"><img src="https://img.shields.io/badge/PG--DITISS-CDAC%20ACTS%20Pune-4A154B?style=for-the-badge&logo=academic-earth&logoColor=white" /></a>
+  <a href="mailto:aniketmagdum15325@gmail.com"><img src="https://img.shields.io/badge/Email-aniketmagdum15325%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/aniket-magdum-b86745239"><img src="https://img.shields.io/badge/LinkedIn-Aniket%20Magdum-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Electrov201"><img src="https://img.shields.io/badge/GitHub-Electrov201-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://cdac.in/"><img src="https://img.shields.io/badge/PG--DITISS-CDAC%20ACTS%20Pune-4A154B?style=for-the-badge&logo=academic-earth&logoColor=white" alt="CDAC" /></a>
 </div>
 
 <br/>
 
 <p align="center">
-  <a href="#-about-me--technical-architecture"><b>About Me</b></a> •
-  <a href="#-live-top--recent-cloud--infrastructure-projects"><b>Live Projects Showcase</b></a> •
-  <a href="#-enterprise-tech-stack--core-competencies"><b>Tech Stack</b></a> •
-  <a href="#-real-time-github-telemetry--analytics"><b>GitHub Telemetry</b></a> •
-  <a href="#-automated-readme-workflow"><b>Auto-Update Setup</b></a>
+  <a href="#--about-me--technical-architecture"><b>About Me</b></a> •
+  <a href="#--live-top--recent-cloud--infrastructure-projects"><b>Live Projects Showcase</b></a> •
+  <a href="#--enterprise-tech-stack--core-competencies"><b>Tech Stack</b></a> •
+  <a href="#--real-time-github-telemetry--analytics"><b>GitHub Telemetry</b></a> •
+  <a href="#--automated-readme-workflow"><b>Auto-Update Setup</b></a>
 </p>
 
 ---
@@ -47,13 +47,13 @@ I am an **Enterprise Systems Administrator & Cloud DevOps Engineer** completing 
 
 </td>
 <td width="35%" align="center" valign="middle">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Terminal Matrix" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" alt="Terminal Coding Matrix" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Focus-AWS_Cloud_Infra-2563eb?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Focus-AWS_Cloud_Infra-2563eb?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Focus" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Focus-Linux_%26_Windows_Server-7c3aed?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Focus-Linux_%26_Windows_Server-7c3aed?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Focus" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Focus-Zero__Trust_SOC-059669?style=for-the-badge&logo=security" />
+  <img src="https://img.shields.io/badge/Focus-Zero__Trust_SOC-059669?style=for-the-badge&logo=security&logoColor=white" alt="SOC Focus" />
 </td>
 </tr>
 </table>
@@ -68,12 +68,12 @@ I am an **Enterprise Systems Administrator & Cloud DevOps Engineer** completing 
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Electrov201/Cloud-Infrastructure-Automation-on-AWS-using-Terraform-Ansible">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Electrov201&repo=Cloud-Infrastructure-Automation-on-AWS-using-Terraform-Ansible&theme=tokyonight&bg_color=0D1117&border_color=3b82f6&title_color=38bdf8&icon_color=8b5cf6&text_color=ffffff" width="100%" alt="AWS IaC Project" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Electrov201&repo=Cloud-Infrastructure-Automation-on-AWS-using-Terraform-Ansible&theme=tokyonight&bg_color=0D1117&border_color=3b82f6&title_color=38bdf8&icon_color=8b5cf6&text_color=ffffff" width="100%" alt="AWS IaC Project Card" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Electrov201/Kubernetes_Cdac_Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Electrov201&repo=Kubernetes_Cdac_Project&theme=tokyonight&bg_color=0D1117&border_color=3b82f6&title_color=38bdf8&icon_color=8b5cf6&text_color=ffffff" width="100%" alt="Kubernetes Project" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Electrov201&repo=Kubernetes_Cdac_Project&theme=tokyonight&bg_color=0D1117&border_color=3b82f6&title_color=38bdf8&icon_color=8b5cf6&text_color=ffffff" width="100%" alt="Kubernetes Project Card" />
       </a>
     </td>
   </tr>
@@ -94,47 +94,47 @@ I am an **Enterprise Systems Administrator & Cloud DevOps Engineer** completing 
 <div align="center">
 
 ### ☁️ Cloud Architecture & DevOps Infrastructure
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/HashiCorp_Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/RedHat_Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins_CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/HashiCorp_Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/RedHat_Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="CloudWatch" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+<img src="https://img.shields.io/badge/Jenkins_CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 
 <br/>
 
 ### 🐧 Enterprise Linux & 🪟 Windows Server Administration
-<img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Red_Hat_RHEL-CC0000?style=for-the-badge&logo=redhat&logoColor=white" />
-<img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows_Server_2022-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Active_Directory_(AD_DS)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Systemd_%26_Cron-2C2C2C?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/LVM_%26_Storage-4A154B?style=for-the-badge&logo=gnome&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/Red_Hat_RHEL-CC0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RedHat" />
+<img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS" />
+<img src="https://img.shields.io/badge/Windows_Server_2022-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+<img src="https://img.shields.io/badge/Active_Directory_(AD_DS)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
+<img src="https://img.shields.io/badge/Systemd_%26_Cron-2C2C2C?style=for-the-badge&logo=linux&logoColor=white" alt="Systemd" />
+<img src="https://img.shields.io/badge/LVM_%26_Storage-4A154B?style=for-the-badge&logo=gnome&logoColor=white" alt="LVM" />
 
 <br/>
 
 ### 🛡️ Cybersecurity, SOC & Network Protocols
-<img src="https://img.shields.io/badge/Wireshark_Packet_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/TCP%2FIP_%26_DNS-005571?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap_Scanning-21304C?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img src="https://img.shields.io/badge/SIEM_Log_Ingestion-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-<img src="https://img.shields.io/badge/UFW_%26_Iptables-D22128?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark_Packet_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+<img src="https://img.shields.io/badge/TCP%2FIP_%26_DNS-005571?style=for-the-badge&logo=cisco&logoColor=white" alt="TCP/IP" />
+<img src="https://img.shields.io/badge/Nmap_Scanning-21304C?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Nmap" />
+<img src="https://img.shields.io/badge/SIEM_Log_Ingestion-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="SIEM" />
+<img src="https://img.shields.io/badge/UFW_%26_Iptables-D22128?style=for-the-badge&logo=linux&logoColor=white" alt="Firewalls" />
 
 <br/>
 
 ### 💻 Infrastructure Scripting & Automation Languages
-<img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerShell_Core-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HCL_(Terraform)-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/YAML_(Ansible%2FK8s)-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/PowerShell_Core-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+<img src="https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/HCL_(Terraform)-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="HCL" />
+<img src="https://img.shields.io/badge/YAML_(Ansible%2FK8s)-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
 
 </div>
 
@@ -145,10 +145,10 @@ I am an **Enterprise Systems Administrator & Cloud DevOps Engineer** completing 
 <table width="100%" align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Electrov201&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=3b82f6&title_color=38bdf8&icon_color=8b5cf6&text_color=ffffff&hide_border=false&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Electrov201&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=3b82f6&title_color=38bdf8&icon_color=8b5cf6&text_color=ffffff&hide_border=false" width="100%" alt="GitHub Stats Card" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Electrov201&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=3b82f6&title_color=38bdf8&text_color=ffffff&hide_border=false" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Electrov201&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=3b82f6&title_color=38bdf8&text_color=ffffff&hide_border=false" width="100%" alt="Top Languages Card" />
     </td>
   </tr>
 </table>
@@ -156,7 +156,7 @@ I am an **Enterprise Systems Administrator & Cloud DevOps Engineer** completing 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Electrov201&theme=tokyonight&hide_border=false&border=3b82f6&background=0D1117" width="98%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Electrov201&theme=tokyonight&hide_border=false&border=3b82f6&background=0D1117" width="98%" alt="GitHub Streak Card" />
 </div>
 
 <br/>
@@ -199,12 +199,12 @@ jobs:
 <div align="center">
   <p>Looking to collaborate on enterprise cloud migrations, SOC monitoring deployments, or infrastructure automation? Let's connect!</p>
   
-  <a href="mailto:aniketmagdum15325@gmail.com"><img src="https://img.shields.io/badge/Email_Me-aniketmagdum15325%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aniket-magdum-b86745239"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-Aniket%20Magdum-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aniketmagdum15325@gmail.com"><img src="https://img.shields.io/badge/Email_Me-aniketmagdum15325%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/aniket-magdum-b86745239"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-Aniket%20Magdum-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,70:2563eb,100:0a0e1a&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0D1117&height=120&section=footer" width="100%" alt="Footer Banner"/>
 </div>
