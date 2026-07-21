@@ -22,8 +22,9 @@
 <p align="center">
   <a href="#--about-me--technical-architecture"><b>About Me</b></a> •
   <a href="#--enterprise-cloud--infrastructure-solution-catalog"><b>Solution Catalog</b></a> •
+  <a href="#--live-engineering-activity--recent-repositories"><b>Live Activity</b></a> •
   <a href="#--enterprise-tech-stack--core-competencies"><b>Tech Stack</b></a> •
-  <a href="#--github-observability--command-center"><b>Telemetry Command Center</b></a> •
+  <a href="#--github-observability--command-center"><b>Telemetry</b></a> •
   <a href="#--connect--collaborate"><b>Contact</b></a>
 </p>
 
@@ -40,10 +41,12 @@
 I am an **Enterprise Systems Administrator & Cloud DevOps Engineer** completing my Post-Graduate Diploma (**PG-DITISS**) at **C-DAC, ACTS Pune**. I specialize in building, automating, and securing critical IT infrastructure across multi-cloud and hybrid environments.
 
 #### 🎯 Core Engineering Pillars:
-* **☁️ AWS Cloud & Infrastructure as Code (IaC):** Expert in designing declarative provisioning pipelines using **HashiCorp Terraform** (VPC, EC2, IAM, Route Tables, ALB) and configuration enforcement via **Red Hat Ansible** playbooks over secure SSH.
-* **🐧 Linux Enterprise Administration:** Deep proficiency in kernel tuning, `systemd` daemon management, `ufw`/`iptables` firewall hardening, storage volume expansion (LVM/EBS), and high-performance Nginx/Apache reverse proxy deployment on **Ubuntu LTS & RHEL/CentOS**.
-* **🪟 Windows Server & Active Directory Infrastructure:** Advanced administration of **Windows Server 2022**, multi-node Active Directory Domain Services (AD DS), Group Policy Object (GPO) hierarchy, centralized DNS/DHCP failover, and **PowerShell** enterprise automation.
-* **🛡️ SOC Observability & Threat Mitigation:** Implementing self-healing architectures and proactive observability pipelines using **Amazon CloudWatch**, **Prometheus/Grafana**, and SIEM log analysis systems to detect anomalies and enforce zero-trust network boundaries.
+<ul>
+  <li><b>☁️ AWS Cloud & Infrastructure as Code (IaC):</b> Expert in designing declarative provisioning pipelines using <b>HashiCorp Terraform</b> (VPC, EC2, IAM, Route Tables, ALB) and configuration enforcement via <b>Red Hat Ansible</b> playbooks over secure SSH.</li>
+  <li><b>🐧 Linux Enterprise Administration:</b> Deep proficiency in kernel tuning, <code>systemd</code> daemon management, <code>ufw</code>/<code>iptables</code> firewall hardening, storage volume expansion (LVM/EBS), and high-performance Nginx/Apache reverse proxy deployment on <b>Ubuntu LTS & RHEL/CentOS</b>.</li>
+  <li><b>🪟 Windows Server & Active Directory Infrastructure:</b> Advanced administration of <b>Windows Server 2022</b>, multi-node Active Directory Domain Services (AD DS), Group Policy Object (GPO) hierarchy, centralized DNS/DHCP failover, and <b>PowerShell</b> enterprise automation.</li>
+  <li><b>🛡️ SOC Observability & Threat Mitigation:</b> Implementing self-healing architectures and proactive observability pipelines using <b>Amazon CloudWatch</b>, <b>Prometheus/Grafana</b>, and SIEM log analysis systems to detect anomalies and enforce zero-trust network boundaries.</li>
+</ul>
 
 </td>
 <td width="35%" align="center" valign="middle">
@@ -61,8 +64,6 @@ I am an **Enterprise Systems Administrator & Cloud DevOps Engineer** completing 
 ---
 
 ## ⚡ Enterprise Cloud & Infrastructure Solution Catalog
-
-> **Architectural Perspective:** Instead of static lists, these live catalog entries combine **real-time API status cards** with **deep technical breakdowns**. Every star or push updates the visual cards instantly.
 
 <table>
   <tr>
@@ -98,53 +99,16 @@ I am an **Enterprise Systems Administrator & Cloud DevOps Engineer** completing 
   </tr>
 </table>
 
-<br/>
+---
 
-### 🟢 Live System Status & Automated Activity Feed
+## 🟢 Live Engineering Activity & Recent Repositories
 
-> This section acts as a live telemetry ticker. Whenever you push commits across your repositories, GitHub automatically populates this feed with your latest engineering activity!
-
-<table>
-  <tr>
-    <td width="100%" bgcolor="#0D1117">
 <!-- START_SECTION:activity -->
 * ☁️ **[Cloud-Infrastructure-Automation-on-AWS-using-Terraform-Ansible](https://github.com/Electrov201/Cloud-Infrastructure-Automation-on-AWS-using-Terraform-Ansible)** — Complete end-to-end AWS infrastructure provisioned with Terraform, configured with Ansible, and monitored by CloudWatch (`t2.micro` Free Tier).
 * ☸️ **[Kubernetes_Cdac_Project](https://github.com/Electrov201/Kubernetes_Cdac_Project)** — Automated production Kubernetes cluster deployed using Ansible and kubeadm on Ubuntu Linux with self-healing DCDR.
-* 🛡️ **SOC Security & Log Analysis System** — Real-time multi-source SIEM ingestion, packet analysis via Wireshark, and automated incident response alerting.
-* 🪟 **Enterprise Active Directory Domain Infrastructure** — Windows Server 2022 multi-node AD DS, GPO policies, and PowerShell administration automation.
+* 🛡️ **[SOC Security & Log Analysis System](https://github.com/Electrov201)** — Real-time multi-source SIEM ingestion, packet analysis via Wireshark, and automated incident response alerting.
+* 🪟 **[Enterprise Active Directory Domain Infrastructure](https://github.com/Electrov201)** — Windows Server 2022 multi-node AD DS, GPO policies, and PowerShell administration automation.
 <!-- END_SECTION:activity -->
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<details>
-<summary><b>🤖 Click to Expand: How to Enable the Daily Auto-Update Workflow in Your Repo</b></summary>
-<br/>
-<p>To make GitHub automatically inject your newest commits and created repositories directly into the green box above every night at midnight UTC, create a file at <code>.github/workflows/update-readme.yml</code> inside your <code>Electrov201/Electrov201</code> repository with this code:</p>
-
-```yaml
-name: Update Profile README with Recent Activity
-on:
-  schedule:
-    - cron: '0 0 * * *' # Runs at midnight UTC every day
-  workflow_dispatch: # Allows triggering manually from Actions tab
-
-jobs:
-  update-readme:
-    name: Update README with recent activity
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@v0.3.6
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: 'cron: Update recent GitHub activity in README'
-          MAX_LINES: 5
-```
-</details>
 
 ---
 
@@ -200,8 +164,6 @@ jobs:
 ---
 
 ## 📊 GitHub Observability & Telemetry Command Center
-
-> **Executive Dashboard:** A unified view of commit frequency, language distribution, and daily development consistency across all personal and enterprise repositories.
 
 <table width="100%" align="center">
   <tr>
