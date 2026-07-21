@@ -21,10 +21,10 @@
 
 <p align="center">
   <a href="#--about-me--technical-architecture"><b>About Me</b></a> •
-  <a href="#--live-top--recent-cloud--infrastructure-projects"><b>Live Projects Showcase</b></a> •
+  <a href="#--enterprise-cloud--infrastructure-solution-catalog"><b>Solution Catalog</b></a> •
   <a href="#--enterprise-tech-stack--core-competencies"><b>Tech Stack</b></a> •
-  <a href="#--real-time-github-telemetry--analytics"><b>GitHub Telemetry</b></a> •
-  <a href="#--automated-readme-workflow"><b>Auto-Update Setup</b></a>
+  <a href="#--github-observability--command-center"><b>Telemetry Command Center</b></a> •
+  <a href="#--connect--collaborate"><b>Contact</b></a>
 </p>
 
 ---
@@ -60,32 +60,91 @@ I am an **Enterprise Systems Administrator & Cloud DevOps Engineer** completing 
 
 ---
 
-## ⚡ Live Top & Recent Cloud & Infrastructure Projects
+## ⚡ Enterprise Cloud & Infrastructure Solution Catalog
 
-> **Dynamic Live Cards:** The cards below automatically pull real-time star counts, forks, and live repository descriptions directly from the GitHub API. Whenever you push changes or receive stars, these cards update instantly!
+> **Architectural Perspective:** Instead of static lists, these live catalog entries combine **real-time API status cards** with **deep technical breakdowns**. Every star or push updates the visual cards instantly.
 
-<table width="100%" align="center">
+<table>
   <tr>
-    <td width="50%" align="center">
+    <td width="48%" align="center" valign="top">
       <a href="https://github.com/Electrov201/Cloud-Infrastructure-Automation-on-AWS-using-Terraform-Ansible">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Electrov201&repo=Cloud-Infrastructure-Automation-on-AWS-using-Terraform-Ansible&theme=tokyonight&bg_color=0D1117&border_color=3b82f6&title_color=38bdf8&icon_color=8b5cf6&text_color=ffffff" width="100%" alt="AWS IaC Project Card" />
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="52%" valign="top">
+      <h4>☁️ AWS IaC & Observability Pipeline</h4>
+      <ul>
+        <li><b>Declarative Provisioning:</b> Terraform constructs custom VPCs, public routing, hardened Security Groups, least-privilege IAM Profiles, and <code>t2.micro</code> instances.</li>
+        <li><b>Self-Bootstrapping:</b> Cloud-init automatically installs the official Amazon CloudWatch Agent on boot.</li>
+        <li><b>Configuration Hardening:</b> Ansible over SSH configures UFW rules, installs Nginx, and deploys a dark-themed status dashboard.</li>
+        <li><b>Telemetry:</b> Real-time CloudWatch metrics & CPU alarms linked to Amazon SNS.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="48%" align="center" valign="top">
       <a href="https://github.com/Electrov201/Kubernetes_Cdac_Project">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Electrov201&repo=Kubernetes_Cdac_Project&theme=tokyonight&bg_color=0D1117&border_color=3b82f6&title_color=38bdf8&icon_color=8b5cf6&text_color=ffffff" width="100%" alt="Kubernetes Project Card" />
       </a>
     </td>
+    <td width="52%" valign="top">
+      <h4>☸️ Automated K8s Cluster & DCDR Platform</h4>
+      <ul>
+        <li><b>Cluster Orchestration:</b> Multi-node Kubernetes topology initialized via Ansible playbooks and <code>kubeadm</code> on Ubuntu Linux.</li>
+        <li><b>Self-Healing DCDR:</b> Automated Disaster Recovery, replica controller autoscaling, pod restart policies, and health probing.</li>
+        <li><b>Container Security:</b> Hardened pod security standards, namespace isolation, and CNI network policies.</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
-### 🚀 Automated Recent Activity & Latest Repositories
+<br/>
+
+### 🟢 Live System Status & Automated Activity Feed
+
+> This section acts as a live telemetry ticker. Whenever you push commits across your repositories, GitHub automatically populates this feed with your latest engineering activity!
+
+<table>
+  <tr>
+    <td width="100%" bgcolor="#0D1117">
 <!-- START_SECTION:activity -->
 * ☁️ **[Cloud-Infrastructure-Automation-on-AWS-using-Terraform-Ansible](https://github.com/Electrov201/Cloud-Infrastructure-Automation-on-AWS-using-Terraform-Ansible)** — Complete end-to-end AWS infrastructure provisioned with Terraform, configured with Ansible, and monitored by CloudWatch (`t2.micro` Free Tier).
 * ☸️ **[Kubernetes_Cdac_Project](https://github.com/Electrov201/Kubernetes_Cdac_Project)** — Automated production Kubernetes cluster deployed using Ansible and kubeadm on Ubuntu Linux with self-healing DCDR.
 * 🛡️ **SOC Security & Log Analysis System** — Real-time multi-source SIEM ingestion, packet analysis via Wireshark, and automated incident response alerting.
 * 🪟 **Enterprise Active Directory Domain Infrastructure** — Windows Server 2022 multi-node AD DS, GPO policies, and PowerShell administration automation.
 <!-- END_SECTION:activity -->
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<details>
+<summary><b>🤖 Click to Expand: How to Enable the Daily Auto-Update Workflow in Your Repo</b></summary>
+<br/>
+<p>To make GitHub automatically inject your newest commits and created repositories directly into the green box above every night at midnight UTC, create a file at <code>.github/workflows/update-readme.yml</code> inside your <code>Electrov201/Electrov201</code> repository with this code:</p>
+
+```yaml
+name: Update Profile README with Recent Activity
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at midnight UTC every day
+  workflow_dispatch: # Allows triggering manually from Actions tab
+
+jobs:
+  update-readme:
+    name: Update README with recent activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@v0.3.6
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'cron: Update recent GitHub activity in README'
+          MAX_LINES: 5
+```
+</details>
 
 ---
 
@@ -140,7 +199,9 @@ I am an **Enterprise Systems Administrator & Cloud DevOps Engineer** completing 
 
 ---
 
-## 📊 Real-Time GitHub Telemetry & Analytics
+## 📊 GitHub Observability & Telemetry Command Center
+
+> **Executive Dashboard:** A unified view of commit frequency, language distribution, and daily development consistency across all personal and enterprise repositories.
 
 <table width="100%" align="center">
   <tr>
@@ -151,46 +212,19 @@ I am an **Enterprise Systems Administrator & Cloud DevOps Engineer** completing 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Electrov201&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=3b82f6&title_color=38bdf8&text_color=ffffff&hide_border=false" width="100%" alt="Top Languages Card" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <img src="https://streak-stats.demolab.com/?user=Electrov201&theme=tokyonight&hide_border=false&border=3b82f6&background=0D1117" width="99%" alt="GitHub Streak Card" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Electrov201&theme=tokyo-night&bg_color=0D1117&color=38bdf8&line=8b5cf6&point=3b82f6&hide_border=false&radius=8" width="99%" alt="Contribution Activity Graph" />
+    </td>
+  </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Electrov201&theme=tokyonight&hide_border=false&border=3b82f6&background=0D1117" width="98%" alt="GitHub Streak Card" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Electrov201&theme=tokyo-night&bg_color=0D1117&color=38bdf8&line=8b5cf6&point=3b82f6&hide_border=false&radius=8" width="98%" alt="Contribution Activity Graph" />
-</div>
-
----
-
-## 🤖 Automated README Workflow (How to Auto-Update Daily)
-
-To make GitHub **automatically fetch your latest commits and new repositories every 24 hours** into the `<!-- START_SECTION:activity -->` block above without manual editing, add this workflow inside your profile repository (`Electrov201/Electrov201/.github/workflows/update-readme.yml`):
-
-```yaml
-name: Update Profile README with Recent Activity
-on:
-  schedule:
-    - cron: '0 0 * * *' # Runs at midnight UTC every day
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    name: Update README with recent activity
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@v0.3.6
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: 'cron: Update recent GitHub activity in README'
-          MAX_LINES: 5
-```
 
 ---
 
